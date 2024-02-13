@@ -1,0 +1,10 @@
+first npm i alldependencies
+
+second require and run server 
+
+third on terminal node --watch index.js
+
+four give routes server.get("/page1",(req,res)=>{...})
+
+
+views in ejs format all ejs file in views only.
